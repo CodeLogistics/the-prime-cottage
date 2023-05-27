@@ -309,7 +309,7 @@ textarea.form_control {
   height: 145px;
 }
 
-.post-navigation-item .post-nav-item .thumb .overlay, .blog-details-wrapper .blog-post .entry-footer .social-share a, .product-details-wrapper .product-info ul.social-link li a, .single-product-item .product-thumbnail span.discount, .single-product-item .product-thumbnail, .single-team-item-two .chef-img .hover-content ul.social-link li a, .testimonial-arrows .slick-arrow, .gallery-item-two .gallery-img .hover-overlay .icon-btn, .gallery-item-two .gallery-img .hover-overlay, .gallery-item-one .gallery-img .hover-overlay .icon-btn, .qichen-pagination ul li a, .call-button .icon, .video-one_image-box .play-content-box .video-popup i, .menu-grid-item-two .thumb, .menu-grid-item-two .hover-content .text .icon-btn, .menu-grid-item-one .thumb, .single-menu-item-three .thumb, .single-menu-item-two .thumb, .single-menu-item .thumb, .single-category-item .content .icon-btn, .single-features-item-two .icon, .single-features-item .icon, .fancy-features-item .icon, .hero-arrows .slick-arrow, .header-navigation.breakpoint-on .nav-menu .main-menu ul li .dd-trigger {
+.post-navigation-item .post-nav-item .thumb .overlay, .blog-details-wrapper .blog-post .entry-footer .social-share a, .product-details-wrapper .product-info ul.social-link li a, .single-product-item .product-thumbnail span.discount, .single-product-item .product-thumbnail, .single-team-item-two .chef-img .hover-content ul.social-link li a, .testimonial-arrows .slick-arrow, .gallery-item-two .gallery-img .hover-overlay .icon-btn, .gallery-item-two .gallery-img .hover-overlay, .gallery-item-one .gallery-img .hover-overlay .icon-btn, .The Prime Cottage-pagination ul li a, .call-button .icon, .video-one_image-box .play-content-box .video-popup i, .menu-grid-item-two .thumb, .menu-grid-item-two .hover-content .text .icon-btn, .menu-grid-item-one .thumb, .single-menu-item-three .thumb, .single-menu-item-two .thumb, .single-menu-item .thumb, .single-category-item .content .icon-btn, .single-features-item-two .icon, .single-features-item .icon, .fancy-features-item .icon, .hero-arrows .slick-arrow, .header-navigation.breakpoint-on .nav-menu .main-menu ul li .dd-trigger {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -992,58 +992,54 @@ button {
   right: -13%;
 }
 
-.error-page-area .object {
+ .object {
   position: absolute;
   z-index: -1;
 }
 @media (max-width: 767px) {
-  .error-page-area .object {
+   .object {
     display: none;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
-  .error-page-area .object {
+   .object {
     display: block;
   }
 }
-.error-page-area .object.object-one {
+ .object.object-one {
   top: 21%;
   left: 6.5%;
 }
 @media (max-width: 1199px) {
-  .error-page-area .object.object-one {
+   .object.object-one {
     top: 50px;
   }
 }
-.error-page-area .object.object-two {
+ .object.object-two {
   top: 18%;
   right: 6%;
 }
 @media (max-width: 1199px) {
-  .error-page-area .object.object-two {
+   .object.object-two {
     top: 50px;
   }
 }
-.error-page-area .object.object-three {
+ .object.object-three {
   bottom: 8%;
   right: 10%;
 }
-.error-page-area .error-content h2 {
+ .error-content h2 {
   font-size: 65px;
   line-height: 72px;
   margin-bottom: 23px;
 }
 @media (max-width: 767px) {
-  .error-page-area .error-content h2 {
+   .error-content h2 {
     font-size: 32px;
     line-height: 42px;
   }
 }
-.error-page-area .error-content p {
-  font-size: 18px;
-  line-height: 200%;
-  margin-bottom: 42px;
-}
+
 
 .map-section .map-box iframe {
   min-height: 575px;
